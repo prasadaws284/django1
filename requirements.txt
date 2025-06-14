@@ -1,6 +1,6 @@
 Django==3.2
 jsonify==0.5
-requests==2.25
+requests==2.32.4
 configparser==5.0.2
 mysqlclient==2.0.3
 redis==4.1.4
